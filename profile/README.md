@@ -24,7 +24,7 @@
 | :--- | :--- | :--- |
 | **Project Charter** | Jan 27, 11:58 PM | [View Charter](https://purdue0-my.sharepoint.com/:w:/r/personal/rostrogn_purdue_edu/Documents/307%20CS/Project%20Charter.docx?d=wae7e795c6e5c436a87e6971c4cfbb6fc&csf=1&web=1&e=eYH3tV) |
 | **Product Backlog** | Feb 04, 11:58 PM | [View Backlog](https://purdue0-my.sharepoint.com/:w:/r/personal/rostrogn_purdue_edu/Documents/307%20CS/Backlog.docx?d=w674a885f9e0c4511aadcc91af3f94ae7&csf=1&web=1&e=O8WQSj) |
-| **Design Document** | Feb 13, 11:58 PM | [View Design](#) |
+| **Design Document** | Feb 13, 11:58 PM | [View Design](https://purdue0-my.sharepoint.com/:w:/r/personal/rostrogn_purdue_edu/Documents/307%20CS/Design%20Document.docx?d=w0d93b70013e040f795cef5ff9ba3b20e&csf=1&web=1&e=5iHR1p) |
 
 ### Phase 2: Sprints
 | Sprint | Duration | Planning Doc | Retrospective |
